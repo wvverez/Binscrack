@@ -28,5 +28,38 @@ Lo ejecutas
 </code>
 </pre>
 
+| Binario | SUDO | SUID | FILEREAD/WRITE | SHELL |
+|---------|------|------|----------------|-------|
+|    7z     |      |      |                |       |
+|     find    |      |      |                |       |
+|    sed     |      |      |                |       |
+|   neofetch    |      |      |                |       |
+|   bash      |      |      |                |       |
+|    nft   |      |      |                |       |
+|    more    |      |      |                |       |
+|    logsave     |      |      |                |       |
+|     less    |      |      |                |       |
+|     man    |      |      |                |       |
+|     pg    |      |      |                |       |
+|    red     |      |      |                |       |
+|    script     |      |      |                |       |
+|   service      |      |      |                |       |
+|    ss     |      |      |                |       |
+|    systemctl     |      |      |                |       |
+|    tail     |      |      |                |       |
+|     task    |      |      |                |       |
+|    tbl     |      |      |                |       |
+|     tee    |      |      |                |       |
+|    uniq     |      |      |                |       |
+|    uuencode     |      |      |                |       |
+|    uudecode     |      |      |                |       |
+|    vi     |      |      |                |       |
+|         |      |      |                |       |
+|         |      |      |                |       |
+|         |      |      |                |       |
+|         |      |      |                |       |
+|         |      |      |                |       |
+|         |      |      |                |       |
+
 
 
