@@ -28,6 +28,8 @@ Lo ejecutas
 </code>
 </pre>
 
+## 🏹 BINARIOS 
+
 | Binario | SUDO | SUID | FILEREAD/WRITE | SHELL |
 |---------|------|------|----------------|-------|
 |    7z     |      |      |                |       |
@@ -61,5 +63,6 @@ Lo ejecutas
 |         |      |      |                |       |
 |         |      |      |                |       |
 
+## ⚠️ AVISO LEGAL 
 
-
+Esta herramienta debe usarse solo para fines éticos, legales y responsables. El usuario es responsable del uso que haga de la herramienta. Los creadores no se hacen responsables por un uso indebido o no autorizado. 
