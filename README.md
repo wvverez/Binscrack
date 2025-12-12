@@ -32,36 +32,36 @@ Lo ejecutas
 
 | Binario | SUDO | SUID | FILEREAD/WRITE | SHELL |
 |---------|------|------|----------------|-------|
-|    7z     |   ✅   |      |         ✅       |       |
+|    7z     |   ✅   |  ❌    |         ✅       |    ❌   |
 |     find    |   ✅   |  ✅    |      ✅          |   ✅    |
 |    sed     |   ✅   |   ✅   |       ✅         |    ✅   |
-|   neofetch    |   ✅   |      |      ✅          |   ✅   |
+|   neofetch    |   ✅   |   ❌   |      ✅          |   ✅   |
 |   bash      |    ✅  |   ✅   |      ✅          |   ✅    |
-|    nft   |   ✅   |  ✅    |      ✅          |       |
+|    nft   |   ✅   |  ✅    |      ✅          |   ❌    |
 |    more    |   ✅   |   ✅   |      ✅          |   ✅    |
-|    logsave     |  ✅    |✅|                |   ✅    |
+|    logsave     |  ✅    |✅|         ❌       |   ✅    |
 |     less    |   ✅   |   ✅   |        ✅        |    ✅   |
-|     man    |   ✅   |      |       ✅         |   ✅    |
+|     man    |   ✅   |   ❌   |       ✅         |   ✅    |
 |     pg    |   ✅   |   ✅   |      ✅          |    ✅   |
-|    red     |  ✅    |      |        ✅        |       |
-|    script     |   ✅   |      |       ✅         |   ✅    |
-|   service      |    ✅  |      |                |    ✅   |
-|    ss     |  ✅    |   ✅   |        ✅        |       |
-|    systemctl     |  ✅    |   ✅   |                |       |
-|    tail     |  ✅    |      |       ✅         |   ✅    |
-|     task    |  ✅    |      |                |   ✅    |
-|    tbl     |  ✅    |   ✅   |      ✅          |       |
-|     tee    |   ✅   |   ✅   |       ✅         |       |
-|    uniq     |   ✅   |   ✅   |       ✅         |       |
-|    uuencode     |  ✅    |   ✅   |        ✅        |       |
-|    uudecode     |   ✅   |   ✅   |       ✅         |       |
-|    vi     |  ✅    |      |        ✅        |     ✅  |
+|    red     |  ✅    |   ❌   |        ✅        |   ❌    |
+|    script     |   ✅   |    ❌  |       ✅         |   ✅    |
+|   service      |    ✅  |   ❌   |       ❌         |    ✅   |
+|    ss     |  ✅    |   ✅   |        ✅        |   ❌    |
+|    systemctl     |  ✅    |   ✅   |      ❌          |    ❌   |
+|    tail     |  ✅    |   ❌   |       ✅         |   ✅    |
+|     task    |  ✅    |   ❌   |       ❌         |   ✅    |
+|    tbl     |  ✅    |   ✅   |      ✅          |    ❌   |
+|     tee    |   ✅   |   ✅   |       ✅         |    ❌   |
+|    uniq     |   ✅   |   ✅   |       ✅         |   ❌    |
+|    uuencode     |  ✅    |   ✅   |        ✅        |    ❌   |
+|    uudecode     |   ✅   |   ✅   |       ✅         |    ❌   |
+|    vi     |  ✅    |   ❌   |        ✅        |     ✅  |
 |   xargs    |   ✅   |   ✅   |       ✅         |   ✅    |
 |    xxd     |   ✅   |   ✅   |        ✅        |       |
-|    crash     |   ✅   |      |                |    ✅   |
-|   curl       |  ✅    |   ✅   |       ✅         |       |
-|   debugfs    |   ✅   |   ✅   |                |   ✅    |
-|    base64     |   ✅   |   ✅   |        ✅        |       |
+|    crash     |   ✅   |   ❌   |        ❌        |    ✅   |
+|   curl       |  ✅    |   ✅   |       ✅         |  ❌     |
+|   debugfs    |   ✅   |   ✅   |       ❌         |   ✅    |
+|    base64     |   ✅   |   ✅   |        ✅        |   ❌    |
 
 ## ⚠️ AVISO LEGAL 
 
