@@ -66,6 +66,9 @@ Lo ejecutas
 |   debugfs    |   ✅   |   ✅   |       ❌         |   ✅    |
 |    base64     |   ✅   |   ✅   |        ✅        |   ❌    |
 
-## ⚠️ AVISO LEGAL 
+## 🤜 MEJORAS Y CONTRIBUCIONES
 
-Esta herramienta debe usarse solo para fines éticos, legales y responsables. El usuario es responsable del uso que haga de la herramienta. Los creadores no se hacen responsables por un uso indebido o no autorizado. 
+Este proyecto se encuentra en constante evolución, por lo que se aceptan propuestas de mejora y contribuciones de la comunidad. 
+Si desea sugerir una mejora, reportar un problema o proponer nuevas funcionalidades, puede hacerlo abriendo un "issue" o "pullrequest" 
+
+Agredecemos su interés y colaboración para el mantenimiento y mejora continua de este repo. 
