@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Author-HTR--Tech-cyan?style=flat-square">
-  <img src="https://img.shields.io/badge/MADE%20IN-SPAIN-red?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+  <img src="https://img.shields.io/badge/Author-Wvverez-cyan?style=flat-square">
+![MADE IN SPAIN](https://img.shields.io/badge/MADE%20IN-SPAIN-red?colorA=aa151b&colorB=f1bf00&style=flat-square)
   <img src="https://img.shields.io/badge/Written%20In-Bash-cyan?style=flat-square">
 </p>
 
