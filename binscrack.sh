@@ -12,6 +12,8 @@ MAGENTA='\e[1;35m'
 CYAN='\e[1;36m'
 RESET='\e[0m'
 
+# Binarios seleccionados de CTFs de la plataforma THL
+
 #---------------------------------------------
 # Salida del script
 #---------------------------------------------
